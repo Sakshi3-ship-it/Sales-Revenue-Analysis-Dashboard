@@ -1,2 +1,4 @@
-# Sales-Revenue-Analysis-Dashboard
-Sales Revenue analysis with a dashboard to analysis revenue data.
+# Sales & Revenue Analysis Dashboard
+Run this project locally using:
+`pip install streamlit pandas plotly openpyxl`
+`streamlit run sales_app.py`
